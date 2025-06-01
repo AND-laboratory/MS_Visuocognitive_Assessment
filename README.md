@@ -5,6 +5,7 @@ This longitudinal study investigates the relationship between visuo-cognitive de
 Data analysis was conducted in RStudio and is documented in the accompanying R script.
 
 This repository contains code for:
+
 •	Analysis 1: Linear mixed models for neuropsychological task performance
 
 •	Analysis 2: Firth logistic regression and ordinal regression for cognitive impairment
