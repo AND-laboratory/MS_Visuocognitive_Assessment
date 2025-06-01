@@ -6,7 +6,11 @@ Data analysis was conducted in RStudio and is documented in the accompanying R s
 
 This repository contains code for:
 •	Analysis 1: Linear mixed models for neuropsychological task performance
+
 •	Analysis 2: Firth logistic regression and ordinal regression for cognitive impairment
+
 •	Analysis 3a: Linear mixed models for structural MRI outcomes
+
 •	Analysis 3b: Bayesian ordinal mixed models for EDSS scores
+
 •	Missing data analysis
