@@ -14,4 +14,4 @@ This repository contains code for:
 
 •	Analysis 3b: Bayesian ordinal mixed models for EDSS scores
 
-•	Missing data analysis
+•	Supplementary: Missing data analysis
